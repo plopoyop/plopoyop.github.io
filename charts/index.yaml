@@ -3,9 +3,9 @@ entries:
   mongodb:
   - apiVersion: v2
     appVersion: 0.12.0
-    created: "2025-03-27T08:50:46.086709278Z"
+    created: "2025-04-03T19:30:52.734212032Z"
     description: A Helm chart to deploy Mongodb replicatsets with official community
-    digest: 0c15f46fbab9aec5fac2c7a1094fb51ae2839b06b0bbfdfd2377b2652f0b462b
+    digest: a5586b66a3d0c40c602aadca63be1a9775ff5206497611f3318dc0362304bf45
     icon: https://mongodb-images-new.s3.eu-west-1.amazonaws.com/leaf-green-dark.png
     keywords:
     - mongodb
@@ -14,6 +14,6 @@ entries:
     name: mongodb
     type: application
     urls:
-    - https://plopoyop.github.io/charts/charts/mongodb/mongodb-0.1.0.tgz
+    - https://plopoyop.github.io/charts/mongodb/mongodb-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-27T08:50:46.08533305Z"
+generated: "2025-04-03T19:30:52.732360968Z"
