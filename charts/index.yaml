@@ -33,6 +33,24 @@ entries:
     version: 0.1.0
   mongodb-instance:
   - apiVersion: v2
+    appVersion: 8.3.8
+    created: "2026-11-25T20:28:17.618188788Z"
+    description: Deploy and manage a MongoDB ReplicaSet on Kubernetes using the MongoDB
+      Kubernetes Operator.
+    digest: c45fe8efff8c2ea0c9509fcdbc067422da563ca8e4888f8011e1b8986d423308
+    icon: https://mongodb-images-new.s3.eu-west-1.amazonaws.com/leaf-green-dark.png
+    keywords:
+    - mongodb
+    - database
+    - nosql
+    - kubernetes
+    - operator
+    name: mongodb-instance
+    type: application
+    urls:
+    - https://plopoyop.github.io/charts/mongodb-instance/mongodb-instance-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
     appVersion: 8.0.28
     created: "2026-08-03T17:22:45.72298058Z"
     description: Deploy and manage a MongoDB ReplicaSet on Kubernetes using the MongoDB
@@ -215,4 +233,4 @@ entries:
     urls:
     - https://plopoyop.github.io/charts/postgresql-instance/postgresql-instance-0.1.0.tgz
     version: 0.1.0
-generated: "2026-08-03T17:22:45.72130536Z"
+generated: "2026-11-25T20:28:17.616963038Z"
